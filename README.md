@@ -1,9 +1,9 @@
-redutorDeLinks
+Redutor de Links
 ==============
 
 Site para encurtar URL
 
-Site funcional pode ser acessado em http://www.sisatweb.com.br/redutorDeLinks
+Site funcional pode ser acessado em http://www.sisatweb.com.br/redutorDelinks
 
 Código desenvolvido utilizando o Grails framework.
 
